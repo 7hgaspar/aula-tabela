@@ -1,0 +1,48 @@
+html {
+    background-color: white; 
+}
+
+
+ 
+img {
+    margin: 10px 0px -10px -35px;
+    width: 15%;
+}
+
+.IB {
+    margin: 10px 0px -10px -8px;
+    width: 5%;
+}
+
+h1 {
+    color: darkslategray;
+    font-size: old English Text MT;
+    font-size: 50px;
+    border: color:darkslategray;
+    backgroud-color:honeydew;
+    margin: 0px 900px 0px 0px;
+
+    
+}
+
+.P100 span {
+    color: black;
+    margin: 80px 0px 0px 0px;
+     
+
+}
+
+.P1 span {
+    color:white;
+    
+    
+}
+
+.P2 {
+    margin: 50px 30px 0px 50px
+}
+
+.P3{
+    margin: 0px 0px 0px 0px
+}
+
